@@ -5,7 +5,7 @@ Esse projeto tem a finalidade de:  Compreender o funcionamento e a aplicação d
 Manipular e controlar LEDs comuns e LEDs endereçáveis WS2812; Fixar o estudo do uso de resistores de pull-up internos em botões de acionamento; Desenvolver um projeto funcional que combine hardware e software. 
 
 ### Vídeo de demonstração
-//link
+https://youtu.be/hS2yBAms1Vs?si=DTstO0nvIUd1OzS8
 
 ### Recursos 
 1. Utilização da placa BitDogLab com placa controladora Raspeberry Pi Pico W.
